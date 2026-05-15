@@ -1,10 +1,10 @@
 # Claude Code x openBMC
 
-在 openBMC 开发中使用 [Claude Code](https://claude.ai/code) 的实践记录。
+在 openBMC 开发中使用 Claude Code 的实践记录。
 
 ## 在线文档
 
-👉 **https://github.com/raoxinglong/bmc-with-cc/**
+👉 **[https://github.com/raoxinglong/bmc-with-cc/](https://raoxinglong.github.io/bmc-with-cc/)**
 
 ## 本地开发
 

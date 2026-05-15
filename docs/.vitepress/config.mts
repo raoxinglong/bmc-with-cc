@@ -4,7 +4,7 @@ export default defineConfig({
   title: 'Claude Code × openBMC',
   description: '使用 Claude Code 简化 openBMC 开发和测试的实践记录',
   lastUpdated: true,
-  base: '/bmc-with-cc/',
+  base: '/',
 
   themeConfig: {
     logo: { text: 'CC × openBMC' },

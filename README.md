@@ -13,7 +13,7 @@ npm install
 npm run docs:dev
 ```
 
-浏览器打开 `http://localhost:5173/` 预览。
+浏览器打开 `http://localhost:5173/bmc-with-cc/` 预览。
 
 ## 构建
 

@@ -34,5 +34,3 @@ docs/
 ├── agents/               # Agents 系统相关
 └── hooks/                # Hooks 系统相关
 ```
-
-使用 [VitePress](https://vitepress.dev/) 构建，通过 GitHub Actions 自动部署到 GitHub Pages。

@@ -1,10 +1,6 @@
 # Claude Code x openBMC
 
-在 openBMC 开发中使用 Claude Code 的实践记录。
-
-## 在线文档
-
-👉 **[https://github.com/raoxinglong/bmc-with-cc/](https://raoxinglong.github.io/bmc-with-cc/)**
+在 openBMC 开发中使用 Claude Code 的实践记录
 
 ## 本地开发
 
@@ -13,7 +9,7 @@ npm install
 npm run docs:dev
 ```
 
-浏览器打开 `http://localhost:5173/bmc-with-cc/` 预览。
+浏览器打开 `http://localhost:5173/bmc-with-cc/` 预览
 
 ## 构建
 
